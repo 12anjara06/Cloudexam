@@ -1,0 +1,3 @@
+cat > app.yaml << 'EOF'
+runtime: nodejs22
+EOF

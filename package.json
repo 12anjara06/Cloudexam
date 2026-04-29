@@ -1,0 +1,9 @@
+cat > package.json << 'EOF'
+{
+  "name": "fashion-site",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
+EOF
